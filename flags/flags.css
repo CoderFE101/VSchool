@@ -1,0 +1,22 @@
+body {
+    background: tan;
+}
+
+.flags {
+    display: inline;
+    width: 200px;
+    height: 300px;
+}
+
+.one {
+    background: blue;
+}
+
+.two {
+    background: white;
+}
+
+.three {
+    background: red;
+}
+

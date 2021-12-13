@@ -1,0 +1,40 @@
+h1 {
+    color: Blue;
+    font-size: 29px;
+    text-align: center;
+    font-style: italic;
+}
+
+p {
+        text-align: center;
+}
+
+.learning {
+    color: rgb(58, 29, 48);
+    font-size: 40px;
+    font-style: oblique;
+}
+
+.home, .about, .contact {
+    color:rgb(8, 24, 116);
+    font-size: 15;
+}
+
+h3 {
+    font-size: 20px;
+    font-style: oblique;
+    text-align: center;
+    border-bottom: 3px solid black
+}
+
+.parent > li {
+    background-color: rgba(225, 235, 225, 0.911);
+}
+
+body {
+    background-color:rgb(255, 255, 255)
+}
+
+body {
+    background-color: #cccccc;
+   }
