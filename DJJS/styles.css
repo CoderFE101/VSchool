@@ -1,8 +1,8 @@
 body {
-    background-color: rgb(24, 12, 4);
+    background-color: rgb(82, 69, 61);
   }
 
-h1 {
+div {
     color: rgb(255, 255, 255);
     border-style: double; 
     border-width: 5px solid;
@@ -22,6 +22,10 @@ h1 {
     animation-duration: 1.5s;
     animation-iteration-count: 2;
     animation-direction: alternate;
+}
+
+.square:hover {
+  background-color: blue;
 }
 
 @keyframes direction {
